@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "232780939935",
+    "firebase_url": "https://fitness-cb2a4-default-rtdb.firebaseio.com",
+    "project_id": "fitness-cb2a4",
+    "storage_bucket": "fitness-cb2a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232780939935:android:4ac021cbc5ce68ca0518aa",
+        "android_client_info": {
+          "package_name": "com.hypeteq.fitnessapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgtm3fNMJ_c-pYV3who3HNhZWm5eSDO7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
